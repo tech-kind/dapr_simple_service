@@ -1,0 +1,6 @@
+// Get vehicle info by license-number
+GET http://127.0.0.1:6000/number
+
+###
+
+GET http://127.0.0.1:3600/v1.0/invoke/numberservice/method/number
