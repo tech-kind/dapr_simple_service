@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberService", "NumberService\NumberService.csproj", "{2F8E9B68-EA65-4023-A01F-1C5A5349B23F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberRegistrationService", "NumberService\NumberRegistrationService.csproj", "{2F8E9B68-EA65-4023-A01F-1C5A5349B23F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
