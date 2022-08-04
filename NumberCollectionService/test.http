@@ -1,0 +1,2 @@
+// Get vehicle info by license-number
+POST http://127.0.0.1:6001/collect
